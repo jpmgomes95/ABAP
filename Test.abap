@@ -20,4 +20,4 @@ CALL FUNCTION: 'HR_AUBS_MONTH_DAY'
 WRITE:/'Dia(s): ', nr_dias,
       /'Mes(es): ',nr_mes,
       /'Ano(s): ',nr_ano,
-      /'Dias ao Todo: ',nr_total.
+      /'Dias ao Todo: ',nr_total.    
