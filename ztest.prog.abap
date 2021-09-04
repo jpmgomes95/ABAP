@@ -1,3 +1,4 @@
+REPORT ztest.
 DATA: nr_dias TYPE i,
       nr_mes  TYPE i,
       nr_ano  TYPE i,

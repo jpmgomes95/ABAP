@@ -1,3 +1,4 @@
+REPORT zhelloworld.
 WRITE:/'O que você deseja ? um vom dia ou um mal dia ?',
       /'Caso seja um bom dia digite S, caso contrário digite N'. 
 
